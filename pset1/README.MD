@@ -38,7 +38,7 @@ Como primeiro dever do PSet, foi passado uma instrução de adquirir conheciment
   
   ## MariaBD/MySQL
    
-   >O MariaDB é um dos bancos de dados mais conhecidos do mundo, criado pelos mesmos desenvolvedores do MySQL, que mantiveram a estrutura de código aberto. Sua principal característica é a rapidez, escalabilidade e robustez de suas ferramentas, plugins e capacidade de armazenamento.</br>
+   >O MariaDB é um dos bancos de dados mais conhecidos, criado pelos mesmos desenvolvedores do MySQL, que mantiveram a estrutura de código aberto. Sua principal característica é a rapidez, escalabilidade e robustez de suas ferramentas, plugins e capacidade de armazenamento.</br>
 
 Tudo que foi feito no PostgreSQL foi feito no MariaBD/MySQL, mas antes foi preciso ler a documentação para tal tarefa e ver tutoriais para fazer o que foi pedido.</br>
 Referências:
