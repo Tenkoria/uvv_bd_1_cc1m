@@ -1,6 +1,6 @@
---[Terminal Linux] -
+--[Terminal Linux] - A primeira coisa a ser feita é a criação de um usuário e fazer com que ele tenha seus devidos privilégios no BD.
 
-/* */
+/*Para evitar eventuais erros, os comandos que foram usados a seguir devem ser colocados separadamente no Terminal. */
 mysql -u root -p
 computacao@raiz
 
@@ -13,7 +13,7 @@ system mysql -u vitoria -p
 CREATE DATABASE uvv;
 USE uvv;
 
---[Ainda no Terminal Linux] - 
+--[Ainda no Terminal Linux] - A segunda coisa a ser feita é implementar oprojeto Elmasri que foi feito no SQL Power Architect.
 CREATE TABLE funcionario (
                 cpf char(11) not null,
                 primeiro_nome varchar(15) not null,
@@ -134,7 +134,7 @@ REFERENCES projeto (numero_projeto)
 ON DELETE NO ACTION
 ON UPDATE NO ACTION;
 
---[Ainda no Terminal Linux] - 
+--[Ainda no Terminal Linux] - A terceira coisa a ser feita é inserir os dados no BD.
 
 INSERT INTO funcionario (primeiro_nome, nome_meio, ultimo_nome, cpf, data_nascimento, endereco, sexo, salario, numero_departamento)
 VALUES ('Jorge', 'E', 'Brito', 88866555576, '1937-11-10', 'Rua do Horto, 35, São Paulo, SP', 'M', 55000, 1);
