@@ -1,6 +1,7 @@
---[Terminal Linux] - 
+--[Terminal Linux] - A primeira coisa a ser feita é a criação de um usuário e fazer com que ele tenha seus devidos privilégios no BD.
 
-/* */
+
+/*Para evitar eventuais erros, os comandos que foram usados a seguir devem ser colocados separadamente no Terminal. */
 
 psql -U postgres
 computacao@raiz
@@ -13,7 +14,7 @@ computacao@raiz
 psql
 computacao@raiz
 
---[Ainda no Terminal Linux] - 
+--[Ainda no Terminal Linux] - A segunda coisa a ser feita é criar um banco de dados com as especificações que foram orientadas.
 CREATE DATABASE uvv
     WITH 
     OWNER = vitoria
@@ -34,7 +35,7 @@ SET SEARCH_PATH TO elmasri, "$user", public;
 ALTER USER vitoria
 SET SEARCH_PATH TO elmasri, "$user", public;
 
---[Ainda no Terminal Linux] -
+--[Ainda no Terminal Linux] - A terceira coisa a ser feita é implementar o projeto Elmasri que foi feito no SQL Power Architect.
 CREATE TABLE funcionario (
                 cpf CHAR(11) NOT NULL,
                 primeiro_nome VARCHAR(15) NOT NULL,
@@ -183,7 +184,7 @@ ON DELETE NO ACTION
 ON UPDATE NO ACTION
 NOT DEFERRABLE;
 
---[Ainda no Terminal Linux] - 
+--[Ainda no Terminal Linux] - A quarta coisa a ser feita é inserir os dados no BD.
 INSERT INTO funcionario (primeiro_nome, nome_meio, ultimo_nome, cpf, data_nascimento, endereco, sexo, salario, numero_departamento)
 VALUES ('Jorge', 'E', 'Brito', 88866555576, '1937-11-10', 'Rua do Horto, 35, São Paulo, SP', 'M', 55000, 1);
 
