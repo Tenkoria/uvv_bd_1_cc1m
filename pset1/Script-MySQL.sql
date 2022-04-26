@@ -13,7 +13,7 @@ system mysql -u vitoria -p
 CREATE DATABASE uvv;
 USE uvv;
 
---[Ainda no Terminal Linux] - A segunda coisa a ser feita é implementar oprojeto Elmasri que foi feito no SQL Power Architect.
+--[Ainda no Terminal Linux] - A segunda coisa a ser feita é implementar o projeto Elmasri que foi feito no SQL Power Architect.
 CREATE TABLE funcionario (
                 cpf char(11) not null,
                 primeiro_nome varchar(15) not null,
