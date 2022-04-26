@@ -20,7 +20,7 @@ Como primeiro dever do PSet, foi passado uma instrução de adquirir conheciment
    -[Livro Pro Git](https://git-scm.com/book/en/v2) </br>
    -[Tutorial Git e GitHub](https://www.youtube.com/watch?v=kB5e-gTAl_s)
    
-   ## Modelos lógicos
+   ## Modelos Lógicos
    Após ler os capítulos 6 e 7 do livro “Sistemas de Banco de Dados” que foi passado na disciplina, foi possível realizar as tarefas pedidas no PSet de maneira satisfatória.
    Usando o SQL Power Architect foi possível criar o projeto lógico do Elmasri e fazer o que foi pedido no PSet.
    >SQL Power Architect é uma ferramenta que pode fazer uma representação gráfica de um banco de dados relacional.
@@ -60,4 +60,6 @@ O **MySQL** é focado na agilidade. Faz retornos rápidos e não envolve operaç
 Para escolher um destes dois SGBD, é preciso entender quais recursos a aplicação precisa. Estimar o volume de dados e avaliar o hardware disponível. Se a aplicação for simples o MySQL é uma escolha satisfatória, pois é facilmente encontrado em serviços de hospedagem. E o PostgreSQL, para um sistema de comércio eletrônico de porte médio/alto, por exemplo ele mais interessante, já que é capaz de lidar de maneira satisfatória com o volume de dados gerado pelas operações de consulta e venda. </br>
 >Saiba mais em [Diferença entre MySQL e PostgreSQL](https://pt.differbetween.com/article/difference_between_mysql_and_postgresql)
 
+## Considerações Finais
 
+Finalizando, fazer o PSet foi uma nova experiência, e sobre meu desempenho, poderia ter sido mais satisfatório, já que meu computador travava de maneira considerável enquanto eu estava usando a máquina virtual, mas de qualquer forma consegui tirar todas as minhas dúvidas, li as documentações e vi diversos vídeos no youtube quando algo dava errado, para que assim eu conseguisse aproveitar o trabalho de maneira satisfatória.
