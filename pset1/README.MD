@@ -25,6 +25,10 @@ Como primeiro dever do PSet, foi passado uma instrução de adquirir conheciment
    Usando o SQL Power Architect foi possível criar o projeto lógico do Elmasri e fazer o que foi pedido no PSet.
    >SQL Power Architect é uma ferramenta que pode fazer uma representação gráfica de um banco de dados relacional.
    
+   ![db6df630-2fed-4101-b285-7025a2f3cd25](https://user-images.githubusercontent.com/103432976/165194449-bb6fe3ef-6697-4f17-bc8e-bf1fe3694b1c.jpg)
+>Com ele foi possível criar as tabelas e posteriormente implementar no PostgreSQL e no MariaBD/MySQL.
+   
+   
  ## PostgreSQL
  >Postgres, é um sistema de gerenciamento de banco de dados do tipo objeto-relacional, sua principal função é armazenar dados de forma segura, apoiando as melhores práticas, permitindo a recuperação dos dados a pedido de outras aplicações de software. </br>
 
