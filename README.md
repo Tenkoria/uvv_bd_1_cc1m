@@ -1,4 +1,4 @@
-# Pset 1 - Design e Desenvolvimento de Bancos de Dados
+#Design e Desenvolvimento de Bancos de Dados
 
 Por: Vitória Pizzol Belshoff </br>
 Professor: Abrantes Araújo Silva Filho </br>
