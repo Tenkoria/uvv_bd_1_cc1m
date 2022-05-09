@@ -11,17 +11,17 @@ Monitora: Suellen Miranda Amorim
 
   </div>
 
-# Relatórios SQL a serem desenvolvidos:
+## Relatórios SQL a serem desenvolvidos:
 
- ### O PSet 2 é um seguimento direto do PSet 1, ou seja, as tabelas bases foram tiradas do [PSet 1](https://github.com/Tenkoria/uvv_bd_1_cc1m/tree/main/pset1). </br>
+ #### O PSet 2 é um seguimento direto do PSet 1, ou seja, as tabelas bases foram tiradas do [PSet 1](https://github.com/Tenkoria/uvv_bd_1_cc1m/tree/main/pset1). </br>
 
- ### O script das tabelas se encontra em [Pset 2](https://github.com/Tenkoria/uvv_bd_1_cc1m/blob/main/pset2/Script-MyAQL.sql).
+ #### O script das tabelas se encontra em [Pset 2](https://github.com/Tenkoria/uvv_bd_1_cc1m/blob/main/pset2/Script-MyAQL.sql).
 
 </br>
 
 ## Questão 01: 
 
-> ### prepare um relatório que mostre a média salarial dos funcionários de cada departamento.
+> #### prepare um relatório que mostre a média salarial dos funcionários de cada departamento.
 
 
 </br>
@@ -29,7 +29,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 02: 
 
-> ### prepare um relatório que mostre a média salarial dos homens e das mulheres.
+> #### prepare um relatório que mostre a média salarial dos homens e das mulheres.
 
 
 </br>
@@ -37,7 +37,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 03: 
 
-> ### prepare um relatório que liste o nome dos departamentos e, para cada departamento, inclua as seguintes informações de seus funcionários: o nome completo, a data de nascimento, a idade em anos completos e o salário.
+> #### prepare um relatório que liste o nome dos departamentos e, para cada departamento, inclua as seguintes informações de seus funcionários: o nome completo, a data de nascimento, a idade em anos completos e o salário.
 
 
 </br>
@@ -45,7 +45,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 04: 
 
-> ### prepare um relatório que mostre o nome completo dos funcionários, a idade em anos completos, o salário atual e o salário com um reajuste que obedece ao seguinte critério: se o salário atual do funcionário é inferior a 35.000 o reajuste deve ser de 20%, e se o salário atual do funcionário for igual ou superior a 35.000 o reajuste deve ser de 15%.
+> #### prepare um relatório que mostre o nome completo dos funcionários, a idade em anos completos, o salário atual e o salário com um reajuste que obedece ao seguinte critério: se o salário atual do funcionário é inferior a 35.000 o reajuste deve ser de 20%, e se o salário atual do funcionário for igual ou superior a 35.000 o reajuste deve ser de 15%.
 
 
 </br>
@@ -53,7 +53,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 05: 
 
-> ### prepare um relatório que liste, para cada departamento, o nome do gerente e o nome dos funcionários. Ordene esse relatório por nome do departamento (em ordem crescente) e por salário dos funcionários (em ordem decrescente).
+> #### prepare um relatório que liste, para cada departamento, o nome do gerente e o nome dos funcionários. Ordene esse relatório por nome do departamento (em ordem crescente) e por salário dos funcionários (em ordem decrescente).
 
 
 </br>
@@ -61,7 +61,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 06: 
 
-> ### prepare um relatório que mostre o nome completo dos funcionários que têm dependentes, o departamento onde eles trabalham e, para cada funcionário, também liste o nome completo dos dependentes, a idade em anos de cada dependente e o sexo (o sexo NÃO DEVE aparecer como M ou F, deve aparecer como “Masculino” ou “Feminino”).
+> #### prepare um relatório que mostre o nome completo dos funcionários que têm dependentes, o departamento onde eles trabalham e, para cada funcionário, também liste o nome completo dos dependentes, a idade em anos de cada dependente e o sexo (o sexo NÃO DEVE aparecer como M ou F, deve aparecer como “Masculino” ou “Feminino”).
 
 
 </br>
@@ -69,7 +69,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 07: 
 
-> ### prepare um relatório que mostre, para cada funcionário que NÃO TEM dependente, seu nome completo, departamento e salário.
+> #### prepare um relatório que mostre, para cada funcionário que NÃO TEM dependente, seu nome completo, departamento e salário.
 
 
 </br>
@@ -77,7 +77,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 08: 
 
-> ### prepare um relatório que mostre, para cada departamento, os projetos desse departamento e o nome completo dos funcionários que estão alocados em cada projeto. Além disso inclua o número de horas trabalhadas por cada funcionário, em cada projeto.
+> #### prepare um relatório que mostre, para cada departamento, os projetos desse departamento e o nome completo dos funcionários que estão alocados em cada projeto. Além disso inclua o número de horas trabalhadas por cada funcionário, em cada projeto.
 
 
 </br>
@@ -85,7 +85,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 09: 
 
-> ### prepare um relatório que mostre a soma total das horas de cada projeto em cada departamento. Obs.: o relatório deve exibir o nome do departamento, o nome do projeto e a soma total das horas.
+> #### prepare um relatório que mostre a soma total das horas de cada projeto em cada departamento. Obs.: o relatório deve exibir o nome do departamento, o nome do projeto e a soma total das horas.
 
 
 </br>
@@ -93,7 +93,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 10: 
 
-> ### prepare um relatório que mostre a média salarial dos funcionários de cada departamento.
+> #### prepare um relatório que mostre a média salarial dos funcionários de cada departamento.
 
 
 </br>
@@ -101,7 +101,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 11: 
 
-> ### considerando que o valor pago por hora trabalhada em um projeto é de 50 reais, prepare um relatório que mostre o nome completo do funcionário, o nome do projeto e o valor total que o funcionário receberá referente às horas trabalhadas naquele projeto.
+> #### considerando que o valor pago por hora trabalhada em um projeto é de 50 reais, prepare um relatório que mostre o nome completo do funcionário, o nome do projeto e o valor total que o funcionário receberá referente às horas trabalhadas naquele projeto.
 
 
 </br>
@@ -109,7 +109,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 12: 
 
-> ### seu chefe está verificando as horas trabalhadas pelos funcionários nos projetos e percebeu que alguns funcionários, mesmo estando alocadas à algum projeto, não registraram nenhuma hora trabalhada. Sua tarefa é preparar um relatório que liste o nome do departamento, o nome do projeto e o nome dos funcionários que, mesmo estando alocados a algum projeto, não registraram nenhuma hora trabalhada.
+> #### seu chefe está verificando as horas trabalhadas pelos funcionários nos projetos e percebeu que alguns funcionários, mesmo estando alocadas à algum projeto, não registraram nenhuma hora trabalhada. Sua tarefa é preparar um relatório que liste o nome do departamento, o nome do projeto e o nome dos funcionários que, mesmo estando alocados a algum projeto, não registraram nenhuma hora trabalhada.
 
 
 </br>
@@ -117,7 +117,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 13: 
 
-> ### durante o natal deste ano a empresa irá presentear todos os funcionários e todos os dependentes (sim, a empresa vai dar um presente para cada funcionário e um presente para cada dependente de cada funcionário) e pediu para que você preparasse um relatório que listasse o nome completo das pessoas a serem presenteadas (funcionários e dependentes), o sexo e a idade em anos completos (para poder comprar um presente adequado). Esse relatório deve estar ordenado pela idade em anos completos, de forma decrescente.
+> #### durante o natal deste ano a empresa irá presentear todos os funcionários e todos os dependentes (sim, a empresa vai dar um presente para cada funcionário e um presente para cada dependente de cada funcionário) e pediu para que você preparasse um relatório que listasse o nome completo das pessoas a serem presenteadas (funcionários e dependentes), o sexo e a idade em anos completos (para poder comprar um presente adequado). Esse relatório deve estar ordenado pela idade em anos completos, de forma decrescente.
 
 
 </br>
@@ -125,7 +125,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 14: 
 
-> ### prepare um relatório que exiba quantos funcionários cada departamento tem.
+> #### prepare um relatório que exiba quantos funcionários cada departamento tem.
 
 
 </br>
@@ -133,7 +133,7 @@ Monitora: Suellen Miranda Amorim
 
 ## Questão 15: 
 
-> ### como um funcionário pode estar alocado em mais de um projeto, prepare um relatório que exiba o nome completo do funcionário, o departamento desse funcionário e o nome dos projetos em que cada funcionário está alocado. Atenção: se houver algum funcionário que não está alocado em nenhum projeto, o nome completo e o departamento também devem aparecer no relatório.
+> #### como um funcionário pode estar alocado em mais de um projeto, prepare um relatório que exiba o nome completo do funcionário, o departamento desse funcionário e o nome dos projetos em que cada funcionário está alocado. Atenção: se houver algum funcionário que não está alocado em nenhum projeto, o nome completo e o departamento também devem aparecer no relatório.
 
 
 </br>
