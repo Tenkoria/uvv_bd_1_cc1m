@@ -15,6 +15,7 @@ Monitora: Suellen Miranda Amorim
 
 > ### O PSet 2 é um seguimento direto do PSet 1, ou seja, as tabelas bases foram tiradas do [PSet 1](https://github.com/Tenkoria/uvv_bd_1_cc1m/tree/main/pset1). </br>
 > </br>
+>
 > ### O script das tabelas se encontra em [Pset 2](https://github.com/Tenkoria/uvv_bd_1_cc1m/blob/main/pset2/Script-MyAQL.sql).
 
 </br>
