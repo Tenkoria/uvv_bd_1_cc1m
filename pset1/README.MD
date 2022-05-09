@@ -1,7 +1,7 @@
 <div align="center">
   
-  # PSet 1
-  ### Design e Desenvolvimento de Bancos de Dados
+  # Design e Desenvolvimento de Bancos de Dados
+  ### PSet 1
   
 Por: Vitória Pizzol Belshoff </br>
 Professor: Abrantes Araújo Silva Filho </br>
