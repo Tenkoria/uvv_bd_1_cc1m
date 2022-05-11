@@ -376,5 +376,5 @@ AND p.numero_projeto = t.numero_projeto
 
 AND t.cpf_funcionario = f.cpf
 
-ORDER BY p.nome_projeto DESC
+ORDER BY p.nome_projeto DESC;
 
