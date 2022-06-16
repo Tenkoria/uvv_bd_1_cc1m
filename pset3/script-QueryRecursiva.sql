@@ -23,10 +23,10 @@ INNER JOIN
 tabela_pai tp ON c.codigo_pai = tp.codigo
 )
 SELECT
-nivel,
-nome_relacao,
-codigo_pai,
+nivel AS "Nível",
+nome_relacao AS "Relação",
+codigo_pai AS "Código Pai"
 FROM
-tabela_pai
+tabela_pai tp
 ORDER BY
 nome_relacao;
