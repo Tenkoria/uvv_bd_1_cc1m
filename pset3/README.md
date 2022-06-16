@@ -10,3 +10,7 @@ Monitora: Suellen Miranda Amorim
 </br>
 
 </div>
+
+## Desenvolvimento
+
+Com esse Pset tivemos o primeiro contato com a criacão de queries recursivas 
