@@ -1,7 +1,9 @@
 
 WITH RECURSIVE tabela_pai AS
 ( SELECT
-codigo, nome, codigo_pai,
+codigo, 
+nome, 
+codigo_pai,
 CAST(nome AS TEXT) AS nome_relacao
 FROM
 classificacao
