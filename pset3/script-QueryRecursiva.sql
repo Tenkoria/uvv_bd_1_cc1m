@@ -4,6 +4,7 @@ WITH RECURSIVE tabela_pai AS
 codigo, 
 nome, 
 codigo_pai,
+1 AS nivel,
 CAST(nome AS TEXT) AS nome_relacao
 FROM
 classificacao
@@ -14,6 +15,7 @@ SELECT
 c.codigo,
 tp.nome,
 c.codigo_pai,
+tp.nivel + 1 AS nivel,
 CAST(tp.nome_relacao || ' -> ' || c.nome AS TEXT) AS nome_relacao
 FROM
 classificacao c
